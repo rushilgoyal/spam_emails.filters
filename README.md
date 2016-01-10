@@ -1,1 +1,1 @@
-# spam_emails.filters
+# spam_emails filters
